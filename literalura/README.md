@@ -24,7 +24,7 @@ Al iniciar la aplicación, se muestra un menú con opciones para buscar libros, 
 ![Git][image-6]
 
 [1]:	https://gutendex.com/
-[2]:	https://github.com/IsaacCuautle/LiterAlura/releases/download/v1.0.0/LiterAlura-main.zip
+[2]:	https://github.com/acaballeroa/literalura/releases/download/v1.0.0/LiterAlura-main.zip
 
 [image-1]:	https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
 [image-2]:	https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
